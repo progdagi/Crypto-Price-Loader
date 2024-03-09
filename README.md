@@ -113,9 +113,9 @@ function onOpen() {
 ```
 
 ## 5. save the file using ctr+s or cmd+s then close the page and back to the sheet and reload it
-- you will see new custom menu: "Crypto Price Loader" then follow the below video guide
+- you will see new custom menu: "Crypto Price Loader" then follow the the attached video guide
 
-[scrnli_3_9_2024_3-58-41 PM.webm](https://github.com/progdagi/Crypto-Price-Loader/assets/142475159/a3ee19c9-8f0b-4703-829c-d612d0ec8983)
+
 
 
 
