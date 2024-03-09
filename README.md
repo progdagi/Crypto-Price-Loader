@@ -110,4 +110,12 @@ function onOpen() {
     .addToUi();
 }
 ```
+
+## 5. save the file using ctr+s or cmd+s then close the page and back to the sheet and reload it
+- you will see new custom menu: "Crypto Price Loader" then click it and select "Load Price" menu item any time you want a price update to append to price column
+
+# how to add additional cryptocurrency to the sheet?
+- add the crypto symbol and name in last row then follow the step: 5
+
+Nb: you can add other columns but dont touch those 3 columns (id / symbol,name,price) columns 
   
