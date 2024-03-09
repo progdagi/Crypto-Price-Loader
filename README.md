@@ -10,6 +10,7 @@ https://docs.google.com/spreadsheets/d/1A1zFst2fkrpY_Ua5SYnKbW7xRIsidjq3TbS6rIrI
 
 ## 3. From the menu Clikc on "Extensions -> App Scrapit"
 - this will open new page of google app scrapit code editor wait until it load then ->
+- rename the untieled project to "Crypto Price Loader"
 - remove all the codes in the page "make it empty "
 
 ## 4. Copy the below code and past to "google app scrapit code editor"
