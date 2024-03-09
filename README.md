@@ -113,7 +113,10 @@ function onOpen() {
 ```
 
 ## 5. save the file using ctr+s or cmd+s then close the page and back to the sheet and reload it
-- you will see new custom menu: "Crypto Price Loader" then click it and select "Load Price" menu item any time you want a price update to append to price column
+- you will see new custom menu: "Crypto Price Loader" then follow the below video guide
+
+[scrnli_3_9_2024_3-58-41 PM.webm](https://github.com/progdagi/Crypto-Price-Loader/assets/142475159/1237f6f3-dee8-40d5-ad48-8fe3983eac36)
+
 
 # how to add additional cryptocurrency to the sheet?
 - add the crypto symbol and name in last row then follow the step: 5
